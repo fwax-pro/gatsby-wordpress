@@ -1,0 +1,10 @@
+// Installer Wordpress en local
+// Installer l'extension WPGatsby
+// Installer l'extension WPGraphQL
+// Configurer gatsby-config.js
+// Configurer l'index pour qu'il affiche la liste des articles
+// Configurer gatsby-node.js pour qu'il crée les pages pour chaques articles
+// Mettre à jour l'index pour ajouter les liens vers les pages au moyen du slug
+// installer npm install gatsby-image
+// installer npm install gatsby-wordpress-inline-images
+// configurer gastby-config.js pour gatsby-wordpress-inline-images
